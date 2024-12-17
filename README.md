@@ -45,9 +45,6 @@
             <li>Fonts, images, and colors in the CSS file.</li>
             <li>Update the signup form action to connect with your backend or email service provider.</li>
         </ul>
-        <h2>📁 Project Structure</h2>
-        <pre><code>
-        </code></pre>
         <h2>🤝 Contributing</h2>
         <p>Feel free to fork the repository and submit PRs for improvements. All contributions are welcome!</p>
     </div>
