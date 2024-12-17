@@ -1,0 +1,70 @@
+body{
+    color: #121212;
+}
+.head{
+    display: block;
+    width:330px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{  
+    text-align: center;
+    margin-top: 40px;
+    display: block;
+    width:auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+img{
+    border: 3px solid black;
+    display: block;
+    width:300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.email{
+    margin-top: 40px;
+    border: 4px solid black ;
+    font-weight: bold;
+    width:195px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.join{
+    background-color: #121212;
+    color: white;
+    font-size: medium;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 4px solid black ;
+    font-weight: bold;
+    width:228px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+p{  
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    width:auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    font-style: italic ;
+    font-weight: 300;
+}
