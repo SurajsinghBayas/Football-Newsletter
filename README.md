@@ -33,7 +33,7 @@
         <h2>🛠 How to Use</h2>
         <ol>
             <li>Clone this repository to your local system:
-                <pre><code>git clone https://github.com/your-username/Football-Newsletter.git</code></pre>
+                <pre><code>git clone https://github.com/SurajsinghBayas//Football-Newsletter.git</code></pre>
             </li>
             <li>Open the <code>index.html</code> file in your browser.</li>
         </ol>
