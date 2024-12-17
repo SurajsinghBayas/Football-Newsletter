@@ -18,7 +18,7 @@
             <li>Modern and responsive UI.</li>
         </ul>
         <h2>🖼 Preview</h2>
-        <img src="" alt="Landing Page Screenshot">
+        <img src="output.png" alt="Landing Page Screenshot">
         <h2>🚀 Features</h2>
         <ul>
             <li>Beautiful soccer-themed design.</li>
